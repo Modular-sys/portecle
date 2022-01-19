@@ -1,8 +1,10 @@
 # portecle
 
 #### 介绍
-根据开源项目portecle修改为jpackage打包版可以实现将jre打包到依赖中
-原项目地址http://portecle.sourceforge.net/
+
+Portecle是一个用户友好的GUI应用程序，用于创建、管理和检查密钥库、密钥、证书、证书请求、证书吊销列表等。  
+根据开源项目portecle修改为jpackage打包版可以实现将jre打包到依赖中  
+原项目地址http://portecle.sourceforge.net/  
 
 #### 软件架构
 软件架构说明
